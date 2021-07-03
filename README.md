@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22412%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,009 Contributions in the Year 2021
+> 🏆 2,011 Contributions in the Year 2021
  > 
 > 📦 7.3 kB Used in Github's Storage 
  > 
@@ -44,10 +44,10 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      25 hrs 52 mins      █████████████████████████   100.0%
+Mac                      27 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
