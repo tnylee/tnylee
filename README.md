@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18523%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18509%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,080 Contributions in the Year 2021
+> 🏆 2,086 Contributions in the Year 2021
  > 
 > 📦 7.6 kB Used in Github's Storage 
  > 
@@ -19,8 +19,8 @@
 
 ```text
 🌞 Morning    27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-🌆 Daytime    156 commits    ██████████░░░░░░░░░░░░░░░   40.62% 
-🌃 Evening    166 commits    ██████████░░░░░░░░░░░░░░░   43.23% 
+🌆 Daytime    155 commits    ██████████░░░░░░░░░░░░░░░   40.36% 
+🌃 Evening    167 commits    ██████████░░░░░░░░░░░░░░░   43.49% 
 🌙 Night      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.11%
 
 ```
@@ -44,10 +44,10 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      27 hrs 31 mins      █████████████████████████   100.0%
+Mac                      28 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/07/2021
+ Last Updated on 17/07/2021
 <!--END_SECTION:waka-->
