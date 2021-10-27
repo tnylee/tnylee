@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 4,114 Contributions in the Year 2021
+> 🏆 4,120 Contributions in the Year 2021
  > 
 > 📦 7.8 kB Used in GitHub's Storage 
  > 
@@ -9,7 +9,7 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -40,10 +40,10 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      18 hrs 15 mins      █████████████████████████   100.0%
+Mac                      18 hrs 35 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
