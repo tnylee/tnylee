@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 4,342 Contributions in the Year 2021
+> 🏆 4,345 Contributions in the Year 2021
  > 
 > 📦 10.3 kB Used in GitHub's Storage 
  > 
@@ -9,7 +9,7 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -45,5 +45,5 @@ Mac                      36 hrs 45 mins      ███████████�
 ```
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
