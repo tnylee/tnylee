@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 4,808 Contributions in the Year 2021
+> 🏆 4,812 Contributions in the Year 2021
  > 
-> 📦 11.4 kB Used in GitHub's Storage 
+> 📦 11.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,10 +40,10 @@ Sunday       33 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      27 hrs 56 mins      █████████████████████████   100.0%
+Mac                      26 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
