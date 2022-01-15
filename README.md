@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2022
+> 🏆 45 Contributions in the Year 2022
  > 
 > 📦 11.8 kB Used in GitHub's Storage 
  > 
@@ -40,10 +40,10 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      10 hrs 47 mins      █████████████████████████   100.0%
+Mac                      17 hrs 37 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/01/2022
+ Last Updated on 15/01/2022
 <!--END_SECTION:waka-->
