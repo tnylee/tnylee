@@ -3,13 +3,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,351 Contributions in the Year 2022
+> 🏆 1,353 Contributions in the Year 2022
  > 
 > 📦 13.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -42,10 +42,10 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      13 hrs 4 mins       █████████████████████████   100.0%
+Mac                      18 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/05/2022 01:17:56 UTC
+ Last Updated on 19/05/2022 01:43:26 UTC
 <!--END_SECTION:waka-->
