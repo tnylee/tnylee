@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C213%20hrs%2044%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,583 Contributions in the Year 2022
+> 🏆 1,585 Contributions in the Year 2022
  > 
 > 📦 13.0 kB Used in GitHub's Storage 
  > 
@@ -42,10 +42,10 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      10 hrs 14 mins      █████████████████████████   100.0%
+Mac                      17 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/06/2022 01:50:09 UTC
+ Last Updated on 15/06/2022 01:39:15 UTC
 <!--END_SECTION:waka-->
