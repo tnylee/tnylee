@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C421%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C421%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,10 +42,10 @@ Sunday       34 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      16 hrs 54 mins      █████████████████████████   100.0%
+Mac                      13 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/09/2022 02:04:22 UTC
+ Last Updated on 10/09/2022 02:01:00 UTC
 <!--END_SECTION:waka-->
