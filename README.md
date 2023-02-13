@@ -42,10 +42,10 @@ Sunday          39 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 12/02/2023 01:20:26 UTC
+ Last Updated on 13/02/2023 01:18:57 UTC
 <!--END_SECTION:waka-->
