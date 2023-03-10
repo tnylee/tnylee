@@ -3,7 +3,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 12.5 kB Used in GitHub's Storage 
+> 📦 12.4 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2023
  > 
@@ -40,9 +40,9 @@ Sunday                   546 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2023 01:20:40 UTC
+ Last Updated on 10/03/2023 01:19:26 UTC
 <!--END_SECTION:waka-->
